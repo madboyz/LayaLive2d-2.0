@@ -1,0 +1,5 @@
+.rpt2_cache
+build
+.laya/chrome
+.laya/_pub_old
+node_modules

@@ -1,0 +1,17 @@
+{
+  "name": "live2ddemo",
+  "version": "1.0.0",
+  "description": "本项目基于 **LayaAir IDE ts实验版项目** 与 **Live2D web 版本官方示例** （[项目地址](https://github.com/Live2D/CubismWebSamples)）开发。",
+  "scripts": {
+    "publish": "cd scripts&node publish.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "matched": "^5.0.1",
+    "rollup": "^2.52.3",
+    "rollup-plugin-glsl": "^1.3.0",
+    "rollup-plugin-typescript2": "^0.30.0",
+    "typescript": "4.2.3"
+  }
+}
